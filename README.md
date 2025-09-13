@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hey, I'm Enryu 👋
+I like programming, espacially in backend and low level. I also like linux.
 
 ## My skills 💪
-[![My Skills](https://skillicons.dev/icons?i=java,js,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,linux)](https://skillicons.dev)
 
 <!--
 **S1lverCr0w/S1lverCr0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
