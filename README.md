@@ -8,6 +8,9 @@ I like programming, espacially in backend and low level. I also like linux.
 - Python
 - Linux
 
+| Java | Javascript| Python | Linux |
+| --- | --- | --- | ---|
+
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,js,python,linux)](https://skillicons.dev) -->
 
 <!--
