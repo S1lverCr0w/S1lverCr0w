@@ -7,7 +7,8 @@ I like programming, espacially in backend and low level. I also like linux.
 - JavaScript
 - Python
 - Linux
-[![My Skills](https://skillicons.dev/icons?i=java,js,python,linux)](https://skillicons.dev)
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,js,python,linux)](https://skillicons.dev) -->
 
 <!--
 **S1lverCr0w/S1lverCr0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
