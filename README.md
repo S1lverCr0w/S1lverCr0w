@@ -11,7 +11,7 @@ I like programming, espacially in backend and low level. I also like linux.
 -->
 
 ## My skills so far 💪
-| Java | Python | Javascript | Linux |
+| Java | Python | JavaScript | Linux |
 | --- | --- | --- | ---|
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=java,js,python,linux)](https://skillicons.dev) -->
